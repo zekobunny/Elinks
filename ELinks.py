@@ -2,7 +2,7 @@
     Script for preparing ELinks data for the COBISS-SR database
     Author:
     Mitar Zečević
-    Nation Library of Serbia
+    National Library of Serbia
     mitar.zecevic@nb.rs / mitarzecevic648@gmail.com
 '''
 
